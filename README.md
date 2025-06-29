@@ -33,7 +33,7 @@ The dataset includes detailed audio features (danceability, energy, tempo, etc.)
 ## 📊 Deliverables
 
 - ✅ 4 Insight Areas
-- ✅ 12 High-impact visualizations (see `/visuals/`)
+- ✅ 11 High-impact visualizations (see `/visuals/`)
 - ✅ Structured, commented notebook
 
 ---
